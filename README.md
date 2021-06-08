@@ -6,3 +6,4 @@ It predicts weather for 20,000+ cities
 
 
 For demo, [click here](https://wheathersite.netlify.app)
+
