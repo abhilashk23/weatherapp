@@ -1,6 +1,6 @@
 # Weather Site
 
-A simple weather site using HTML, CSS, JavaScript APIs which gives the temperature of the cities you want.
+A simple weather site using HTML, CSS, JavaScript and OpenWeatherMap API which gives the temperature of the cities you want.
 
 It predicts weather for 20,000+ cities
 
